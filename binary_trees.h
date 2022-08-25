@@ -83,5 +83,6 @@ heap_t *array_to_heap(int *array, size_t size);
 int heap_extract(heap_t **root);
 int *heap_to_sorted_array(heap_t *heap, size_t *size);
 size_t binary_tree_leaves(const binary_tree_t *tree);
+avl_t *avl_remove(avl_t *root, int value);
 
 #endif /* BINARY_TREES_H */
