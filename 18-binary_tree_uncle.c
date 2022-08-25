@@ -1,5 +1,3 @@
-table File  20 lines (19 sloc)  570 Bytes
-
 #include "binary_trees.h"
 
 /**
